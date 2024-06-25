@@ -1,0 +1,136 @@
+p{
+    margin-top: 0;
+    margin-bottom: 0;
+}
+.tahoma-font{
+    font-family: Tahoma;
+    font-size: 30px;
+    font-weight: bold;
+    margin-bottom: 10px;
+}
+.biggest-deal{
+    font-family: Arial;
+    font-size: 30px;
+    width: 350px;
+    font-weight: bold;
+    line-height: 35px;
+}
+.sale{
+    font-size: 20px;
+    font-weight: normal;
+    font-style: italic;
+    color: red;
+}
+.title,.type,.context{
+    font-family: Verdana;
+}
+.title{
+    font-size: 24px;
+    font-weight: bold;
+}
+.type{
+    font-size: 16px;
+    color: grey;
+}
+.context{
+    width: 300px;
+    margin-top: 16px;
+    line-height: 20px;
+}
+.get-started{
+    margin-top: 16px;
+    background-color: green;
+    color: white;
+    border: none;
+    padding:  8px 16px;
+    border-radius: 5px;
+    cursor: pointer;
+}
+.heading, .sub-heading, .cta{
+    font-family: Arial;
+}
+.center{
+    text-align: center;
+}
+.heading{
+    font-size: 24px;
+    font-weight: bold;
+    margin-bottom: 16px;
+}
+.sub-heading{
+    margin-bottom: 16px;
+}
+.cta{
+    text-decoration: none;
+}
+.cta:hover{
+    text-decoration: underline;
+}
+.five-e{
+    font-family: 'Arial';
+    margin-top: 16px;
+    text-align: center;
+}
+.new{
+    font-weight: bold;
+    color: orange;
+    margin-bottom: 8px;
+}
+.macbook{
+    font-size: 20px;
+    font-weight: bold;
+    margin-bottom: 8px;
+}
+.super-heading{
+    font-size: 32px;
+    font-weight: bold;
+    margin-bottom: 8px;
+}
+.price{
+    font-size: 14px;
+    margin-bottom: 8px;
+}
+.buy-btn{
+    background-color: rgb(45, 147, 237);
+    color: white;
+    padding: 8px 16px;
+    border: none;
+    border-radius: 20px;
+}
+.five-f,.five-g{
+    font-family: Arial;
+    margin-bottom: 24px;
+}
+.numbers{
+    font-size: 32px;
+    margin-bottom: 4px;
+}
+.usd{
+    font-size: 14px;
+    color: grey;
+}
+.percentage{
+    color: green;
+    margin-bottom: 4px;
+}
+.after-hours{
+    color: grey;
+}
+.negative{
+    color: red;
+}
+.free-code-camp{
+    font-weight: bold;
+}
+.at{
+    color: grey;
+    font-weight: normal;
+}
+.text-g{
+    margin-bottom: 16px;
+    width: 550px;
+}
+.link{
+    color: rgb(74, 197, 238);
+    text-decoration: none;
+}

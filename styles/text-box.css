@@ -1,0 +1,63 @@
+.seven-d{
+    padding: 10px;
+    border-radius: 5px;
+    border: 1px;
+    border-style: solid;
+}
+.seven-e{
+    margin-left: 16px;
+    width: 350px;
+    padding: 8px;
+    border-radius: 20px;
+    border: none;
+    box-shadow: 0.5px 0.5px 6px rgb(69, 69, 69);
+}
+.linked-in{
+    margin-top: 48px;
+    font-family: 'Segoe UI';
+}
+.label{
+    font-size: 14px;
+    color: grey;
+    margin-bottom: 8px;
+}
+.linked-in-input{
+    width: 340px;
+    padding: 5px;
+    border: 1.5px;
+    border-radius: 3px;
+    border-style: solid;
+}
+.linked-in-paragraph{
+    font-size: 14px;
+}
+.linked-in-btn{
+    font-size: 16px;
+    padding: 12px;
+    width: 340px;
+    color: white;
+    background-color: #245098;
+    border: none;
+    border-radius: 20px;
+}
+.twitter-div{
+    margin-top: 48px;
+}
+.twitter-img{
+    width: 50px;
+    border-radius: 10px;
+    vertical-align: middle;
+}
+.twitter-input{
+    width: 200px;
+    border: none;
+    vertical-align: middle;
+}
+.twitter-btn{
+    color: white;
+    background-color: #4287ce;
+    border: none;
+    padding: 8px 16px;
+    font-weight: bold;
+    border-radius: 20px;
+}

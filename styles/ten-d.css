@@ -1,0 +1,51 @@
+body{
+    font-family: Arial;
+}
+.main{
+    display: inline-block;
+    box-shadow: 1px 1px 8px rgb(120, 120, 120);
+}
+.card{
+    width: 200px;
+}
+.card-img,
+.img-container{
+    width: 200px;
+}
+.text-container{
+    display: inline-block;
+    width: 200px;
+    margin: 0 6px;
+}
+.mutual-img-container,
+.mutual-txt{
+    display: inline-block;
+    vertical-align: middle;
+}
+.mutual-img{
+    width: 30px;
+    height: 30px;
+    border-radius: 40px;
+}
+.btn-container{
+    display: block;
+}
+.card-title{
+    margin-top: 0;
+    margin-bottom: 0;
+    font-size: 20px;
+    font-weight: bold;
+}
+.mutual-text{
+    font-size: 14px;
+    color: grey;
+}
+.add-btn{
+    border: none;
+    background-color: #3875ea;
+    color: white;
+    font-size: 14px;
+    padding: 8px 12px;
+    border-radius: 3px;
+    margin-bottom: 8px;
+}

@@ -1,0 +1,81 @@
+.name{
+    display: block;
+    margin-bottom: 6px;
+}
+.email{
+    display: block;
+}
+.thanks-message{
+    width: 200px;
+    display: inline-block;
+    vertical-align: middle;
+}
+.google-img{
+    width: 200px;
+    display: block; 
+    margin-left: 90px;
+    margin-bottom: 16px;
+}
+.google-input{
+    display: block;
+    width: 380px;
+    padding: 12px;
+    border: none;
+    box-shadow: 0.5px 0.5px 8px rgb(100, 100, 100);
+    border-radius: 20px;
+}
+.firstname,
+.lastname{
+    margin-top: 48px;
+    width: 80px;
+    padding: 8px;
+    display: inline-block;
+}
+.email{
+    margin-top: 8px;
+    display: block;
+    padding: 8px;
+    width: 184px;
+}
+.sign-up{
+    margin-top: 8px;
+    padding: 12px;
+    width: 205px;
+    color: white;
+    background-color: #3972e5;
+    border: none;
+    border-radius: 5px;
+}
+.heading{
+    font-size: 32px;
+    font-family: arial;
+}
+.location{
+    padding: 10px;
+    margin-bottom: 8px;
+    width: 250px;
+    border: none;
+    background-color: rgb(242, 242, 242);
+}
+.destination{
+    display: block;
+    padding: 10px;
+    margin-bottom: 8px;
+    width: 250px;
+    border: none;
+    background-color: rgb(242, 242, 242);
+}
+.request,
+.schedule{
+    margin-top: 16px;
+    padding: 10px;
+    border: none;
+}
+.request{
+    background-color: black;
+    color: white;
+}
+.schedule{
+    margin-left: 8px;
+}
+

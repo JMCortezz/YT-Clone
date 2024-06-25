@@ -1,0 +1,115 @@
+p{
+    font-family: "Roboto", sans-serif;
+    margin: 0;
+}
+.container{
+    border: 1px;
+    padding: 6px;
+    width: 300px;
+    border-color: grey;
+    border-radius: 5px;
+    border-style: solid;
+}
+.haha,
+.notifications,
+.messages{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    margin: 10px 10px;
+}
+.number{
+    background-color: rgb(47, 122, 236);
+    color: white;
+    padding: 2px 10px;
+    border-radius: 16px;
+}
+.container-2{
+    margin-top: 16px;
+    display: inline-block;
+}
+.cat-container{
+    display: flex;
+    flex-direction: row;
+    margin-top: 24px;
+    padding: 16px;
+}
+.card-img{
+    width: 50px;
+    height: 50px;
+    border-radius: 50px;
+}
+.text-section{
+    width: 250px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+}
+.paragraph-section{
+    margin-left: 10px;
+}
+.follow-btn{
+    background-color: rgb(41, 138, 235);
+    color: white;
+    border: none;
+    padding: 8px 12px;
+    border-radius: 5px;
+    font-weight: 600;
+}
+.name{
+    font-weight: 700;
+}
+.title{
+    font-size: 16px;
+    color: grey;
+}
+.title-2{
+    margin-top: 4px;
+    font-size: 14px;
+    color: grey;
+}
+.container-3{
+    margin-top: 16px;
+    width: 800px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    padding: 20px;
+    align-items: center;
+    margin-bottom: 1000px;
+    background-color: #5f458f;
+    border-radius: 3px;
+}
+.home{
+    background-color: #5f458f;
+    border: none;
+    color: white;
+    font-weight: 700;
+}
+.download{
+    background-color: #5f458f;
+    border: 1px;
+    border-style: solid;
+    border-color: white;
+    color: white;
+    padding: 8px 12px;
+    border-radius: 3px;
+}
+.download:hover{
+    background-color: brown;
+    color: white;
+    border: none;
+    transition: 0.5s;
+}
+.search{
+    width: 400px;
+    padding: 6px 16px;
+    border-radius: 20px;
+    border: none;
+}
+.middle-section{
+    flex: 1;
+    justify-content: center;
+    max-width: 400px;
+}

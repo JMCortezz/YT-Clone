@@ -1,0 +1,37 @@
+.stretch-btn{
+    color: white;
+    background-color: green;
+    border: none;
+    padding: 10px 16px;
+    transition: 1s;
+}
+.stretch-btn:hover{
+    font-size: 18px;
+    padding: 20px 32px;
+}
+.box-shadow{
+    color: white;
+    background-color: green;
+    border: none;
+    padding: 10px 16px;
+    box-shadow: 3px 3px 6px #000000;
+}
+.box-shadow:active{
+    cursor: pointer;
+    box-shadow: none;
+}
+.number-1, .number-2, .number-3{
+    color: white;
+    background-color: green;
+    border: none;
+    padding: 10px 16px;
+}
+.number-1:hover{
+    padding: 10px 24px;
+}
+.number-2:hover{
+    padding: 10px 24px;
+}
+.number-3:hover{
+    padding: 10px 24px;
+}

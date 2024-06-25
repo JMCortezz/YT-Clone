@@ -1,0 +1,96 @@
+body{
+    font-family: Arial;
+    padding-top:  70px;
+}
+.bottom-right{
+    position: fixed;
+    right: 20px;
+    bottom: 20px;
+    background-color:black;
+    color: white;
+}
+.sidebar{
+    position: fixed;
+    top: 100px;
+    right: 10px;
+    bottom: 100px;
+    width: 100px;
+    background-color: green;
+    color: white;
+}
+.topbar{
+    background-color: antiquewhite;
+    padding: 10px 70px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+}
+.profile-pic{
+    width: 40px;
+    height: 40px;
+    border-radius: 25px;
+}
+.profile{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+}
+.name{
+    margin-left: 8px;
+    font-weight: 700;
+}
+.btn-div{
+    display: flex;
+    align-items: center;
+}
+.add{
+    margin-right: 8px;
+    background-color: rgb(67, 121, 236);
+    color: white;
+    border: none;
+    padding: 8px 12px;
+    border-radius: 3px;
+}
+.message{
+    background-color: rgb(220, 220, 220);
+    color: black;
+    border: none;
+    padding: 8px 12px;
+    border-radius: 3px;
+}
+.prof-1,
+.prof-2,
+.prof-3{
+    width: 50px;
+    height: 50px;
+    border-radius: 25px;
+}
+.double-sidebar{
+    display: flex;
+    flex-direction: row;
+}
+.profile-sidebar{
+    display: grid;
+    padding: 8px;
+    background-color: #2d2d2d;
+}
+.sidebar-contents{
+    padding: 8px;
+    background-color: #454545;
+    color: white;
+    width: 200px;
+}
+.info{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-between;
+}
+.hashtags p,
+.fa-solid{
+    color: gray;
+}

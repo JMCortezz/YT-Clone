@@ -1,0 +1,140 @@
+body{
+    font-family: Arial;
+}
+.container{
+    display: flex;
+    flex-direction: row;
+}
+.colored-div-1{
+    display: flex;
+    justify-content: center;
+}
+.item-1{
+    background-color: black;
+    color: white;
+}
+.container-2{
+    margin-top: 16px;
+    display: flex;
+    flex-direction: row;
+}
+.rrow-2{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+.row-1{
+    display: flex;
+    flex-direction: row;
+}
+.row2{
+    background-color: black;
+    color: white;
+}
+.container-3{
+    margin-top: 16px;
+    width: 380px;
+    box-shadow: 1px 1px 8px rgb(183, 183, 183);
+}
+.title{
+    padding-top: 12px;
+    padding-left: 10px;
+    color: gray;
+    font-size: 14px;
+
+}
+.profile{
+    margin-left: 10px;
+    width: 45px;
+    height: 45px;
+    border-radius: 24px;
+    margin-right: 10px;
+}
+.content-div{
+    margin-left: 10px;
+    display: flex;
+    flex-direction: row;
+}
+.biggest,
+.chewy{
+    font-weight: 700;
+}
+.first{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    margin-bottom: 2px;
+}
+.hey,
+.time{
+    font-size: 14px;
+    color: gray;
+}
+.hey{
+    margin-top: 4px;
+    margin-bottom: 24px;
+}
+.container-4{
+    margin-top: 24px;
+}
+.larawan{
+    width: 50px;
+    height: 50px;
+    border-radius: 25px;
+}
+.profile-div{
+    display: flex;
+    flex-direction: row;
+}
+.txt-div{
+    margin-left: 8px;
+}
+.heading,
+.sub-text{
+    margin-top: 0;
+    margin-bottom: 0;
+}
+.heading{
+    font-weight: 700;
+}
+.sub-text{
+    margin-top: 6px;
+    width: 350px;
+}
+span{
+    font-weight: 500;
+    color: gray;
+}
+.link-div{
+    display: flex;
+    flex-direction: row;
+    margin-top: 12px;
+    margin-left: 56px;
+    width: 310px;
+}
+.empty-div{
+    width: 100px;
+    border-top-left-radius: 10px;
+    border-bottom-left-radius: 10px;
+}
+.llink-div{
+    border-style: solid;
+    border-color: rgb(214, 214, 214);
+    border-width: 1px;
+    border-top-right-radius: 10px;
+    border-bottom-right-radius: 10px;
+    width: 250px;
+}
+.YT,
+.backend{
+    margin-left: 12px;
+}
+.YT{
+    margin-bottom: 0;
+    margin-bottom: 4px;
+    color: gray;
+}
+.backend{
+    margin-top: 0;
+    font-size: 14px;
+}

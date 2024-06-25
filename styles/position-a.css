@@ -1,0 +1,83 @@
+body{
+    height: 3000px;
+    font-family: Arial;
+}
+
+.container{
+    position: relative;
+}
+.a{
+    position: absolute;
+    top: 16px;
+    right: 16px;
+    background-color: black;
+    color: white;
+    padding: 8px 12px;
+    border-radius: 18px;
+}
+.b{
+    position: fixed;
+    width: 320px;
+    height: 180px;
+    margin-bottom: 100px;
+    background-color: gray;
+    bottom: 0;
+    right: 0;
+}
+.c{
+    position: absolute;
+    top: -12px;
+    left: -12px;
+    background-color: black;
+    color: white;
+    padding: 8px 12px;
+    border-radius: 18px;
+}
+.d{
+    position: absolute;
+    right: 12px;
+    bottom: 12px;
+    background-color: black;
+    color: white;
+    padding: 5px 8px;
+}
+.container-3{
+    position: relative;
+    background-color: antiquewhite;
+    display: inline-block;
+    padding: 20px;
+}
+.image-container{
+    position: relative;
+}
+.damit{
+    width: 250px;
+
+}
+.percentage{
+    position: absolute;
+    top: 8px;
+    right: 0;
+    background-color: black;
+    padding: 6px 10px;
+    color: white;
+}
+.overlay{
+    background-color: white;
+    width: 250px;
+    position: absolute;
+    bottom: 0;
+    height: 100px;
+    opacity: 80%;
+}
+.btn-container{
+    display: flex;
+    flex-direction: grid;
+    justify-content: center;
+    margin-top: 40px;
+}
+.add-to-cart{
+    padding: 8px 12px;
+    background-color: rgb(253, 244, 244);
+    color: black;
+}

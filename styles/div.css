@@ -1,0 +1,111 @@
+.div-1{
+    padding: 50px;
+    width: 50px;
+    background-color: red;
+}
+.div-2{
+    margin-top: 16px;
+    padding: 50px;
+    width: 50px;
+    background-color: green;
+    border-radius: 100px;
+}
+.container-1{
+    margin-top: 16px;
+    border: 1px;
+    border-style: solid;
+    display: inline-block;
+    padding: 10px;
+    width: 250px;
+}
+.container-2{
+    font-family: arial;
+    margin-top: 16px;
+    padding: 16px;
+    background-color: rgb(26, 26, 26);
+    color: white;
+    display: inline-block;
+}
+.title{
+    margin: 0;
+    font-size: 32px;
+    font-weight: bold;
+}
+.paragraph{
+color: grey;
+}
+.invisible-container{
+    display: block;
+}
+.twitter-div{
+    margin-top: 16px;
+    padding: 16px;
+    box-shadow: 1px 1px 3px black;
+}
+.twitter-img{
+    border-radius: 50px;
+    width: 50px;
+    vertical-align: middle;
+}
+.twitter-input{
+    vertical-align: middle;
+    border: none;
+    width: 230px;
+}
+.twitter-btn{
+    padding: 8px 14px;
+    border: none;
+    background-color: #03a9f4;
+    color: white;
+    border-radius: 20px;
+}
+.oliver{
+    margin-top: 16px;
+    display: inline-block;
+    vertical-align: top;
+    font-family: Arial;
+}
+.name{
+    font-size: 20px;
+    font-weight: bold;
+
+}
+.card-img{
+    width: 300px;
+}
+.mutual-friends{
+    color: grey;
+}
+.add-btn{
+    padding: 12px 20px;
+    background-color: #0377f4;
+    color: white;
+    border: none;
+    border-radius: 3px;
+}
+.add-btn:hover{
+    background-color: #032bf4;
+}
+.google-img{
+    width: 200px;
+    margin-bottom: 16px;
+}
+.google-input{
+    width: 380px;
+    padding: 12px;
+    border: none;
+    box-shadow: 0.5px 0.5px 8px rgb(100, 100, 100);
+    border-radius: 20px;
+}
+.google{
+    margin-top: 16px;
+    text-align: center;
+}
+.google-btns{
+    margin-top: 16px;
+}
+.btn-1,
+.btn-2{
+    padding: 12px;
+    border: none;
+}

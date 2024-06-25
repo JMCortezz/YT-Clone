@@ -1,0 +1,14 @@
+.container{
+    text-align: center;
+}
+.seven-a{
+    width: 200px;
+    border-radius: 10px
+}
+.seven-b{
+    width: 200px;
+}
+.seven-c{
+    width: 200px;
+    border-radius: 100px;
+}
